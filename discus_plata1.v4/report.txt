@@ -1,0 +1,4 @@
+Замена символа R4 из 'Disk_Library:_1' на 'Disk_Library:_1': OK
+Замена символа R10 из 'Disk_Library:_1' на 'Disk_Library:_1': OK
+Замена символа R6 из 'Disk_Library:_1' на 'Disk_Library:_1': OK
+Замена символа R8 из 'Disk_Library:_1' на 'Disk_Library:_1': OK
